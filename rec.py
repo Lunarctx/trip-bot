@@ -37,7 +37,7 @@ import motor.motor_asyncio
 
 
 
-client = sr_api.Client("ODI4MzY2NzM5OTg4ODA3NzIx.YGoipQ.A20_ND0m4_LDRPvcJtubdRIPq8w")
+client = sr_api.Client("")
 
 os.chdir("C:\\Users\\Reaper\\Desktop\\Aniko")
 
@@ -1846,5 +1846,5 @@ async def ping(ctx):
 
 
 
-client.run("ODI4MzY2NzM5OTg4ODA3NzIx.YGoipQ.A20_ND0m4_LDRPvcJtubdRIPq8w")
+client.run("BOT TOKEN HERE")
 
